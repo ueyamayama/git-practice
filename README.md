@@ -1,3 +1,4 @@
 hoge
 kanto
 practice
+LOVE
